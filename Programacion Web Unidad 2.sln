@@ -5,7 +5,9 @@ VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Actividad1 Paso de Parametros", "Actividad1 Paso de Parametros\Actividad1 Paso de Parametros.csproj", "{1A3E086C-6DAE-4863-908A-E8452C2191B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actividad 2 Conexion a BD", "Actividad 2 Conexion a BD\Actividad 2 Conexion a BD.csproj", "{DDA7D7E2-8003-4FE3-8AF2-DFAB50D7C992}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Actividad 2 Conexion a BD", "Actividad 2 Conexion a BD\Actividad 2 Conexion a BD.csproj", "{DDA7D7E2-8003-4FE3-8AF2-DFAB50D7C992}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Actividad 3 Navegación entre paginas web", "Actividad 3 Navegación entre paginas web\Actividad 3 Navegación entre paginas web.csproj", "{9D8A7001-FEE6-4E54-9E28-8A8645D6F4C6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{DDA7D7E2-8003-4FE3-8AF2-DFAB50D7C992}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DDA7D7E2-8003-4FE3-8AF2-DFAB50D7C992}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DDA7D7E2-8003-4FE3-8AF2-DFAB50D7C992}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D8A7001-FEE6-4E54-9E28-8A8645D6F4C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D8A7001-FEE6-4E54-9E28-8A8645D6F4C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D8A7001-FEE6-4E54-9E28-8A8645D6F4C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D8A7001-FEE6-4E54-9E28-8A8645D6F4C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
